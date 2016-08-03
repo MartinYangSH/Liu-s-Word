@@ -1,0 +1,2 @@
+This is a dictionary!
+You can see these paragraphs only when you have the true password!
